@@ -1,6 +1,6 @@
 # Enterprise Credit Risk Architecture: End-to-End Pipeline & Executive Dashboard
 
-![Executive Risk Dashboard](dashboard_view.png)
+![Executive Risk Dashboard](dashboard.png)
 
 ## Business Context
 Evaluating credit default risk requires more than analyzing point-in-time loan applications; it demands an understanding of historical behavioral economics. The objective of this project was to ingest, model, and visualize 13 million rows of raw transactional data to provide underwriters with an instantaneous, highly accurate risk matrix. 
