@@ -1,6 +1,6 @@
 # Enterprise Credit Risk Architecture: End-to-End Pipeline & Executive Dashboard
 
-![Retail Banking: Home Loan Risk Assessment](dashboard.png)
+![Retail Banking: Home Loan Risk Assessment](dashboard1.png)
 
 ## Business Context
 Evaluating credit risk requires understanding a borrower's historical behavior, not just their current application. The objective of this project was to ingest, model, and visualize 13 million rows of raw data to give underwriters a fast, accurate view of risk exposure. 
